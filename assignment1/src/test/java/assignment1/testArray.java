@@ -11,6 +11,7 @@ public class testArray {
 	@Before
 	public void init() {
 		array = new Array();
+		int size=array.size;
 	}
 	
 	
