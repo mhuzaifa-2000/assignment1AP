@@ -4,7 +4,6 @@ import java.util.*;
 public class Array{
 	static int [] array;  //array
 	static int size;      //size increases as elements are filled in the array.	
-	
 	public Array(){
 		array=new int[100]; //length of array = 100
 		size=0;
